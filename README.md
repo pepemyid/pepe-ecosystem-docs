@@ -55,6 +55,6 @@ function _collectGasFee(address from) internal {
         emit GasFeeCollected(from, simulatedGasFee);
     }
 }
-. 10% of network gas fees collected in POL
-. Zero cost to users - paid by validation process
-. 30% of revenue used for PEPECO buybacks
+- ** 10% of network gas fees collected in POL
+- ** Zero cost to users - paid by validation process
+- ** 30% of revenue used for PEPECO buybacks

@@ -193,7 +193,7 @@ Stake POL to earn PEPECO rewards with zero risk to your initial investment.
 - [ ] Community growth and engagement initiatives
 - [ ] Additional liquidity pool creation
 
-### 📅 Phase 3: Expansion (2024-2025)
+### 📅 Phase 3: Expansion (2025)
 - [ ] Plastic recycling factory planning and establishment
 - [ ] Multi-chain DEX development and launch
 - [ ] PEPE staking integration (Ethereum to Polygon rewards)
@@ -374,7 +374,7 @@ We believe that through collaboration, innovation, and community, we can create 
 
 ---
 
-*Last Updated: October 2024*  
+*Last Updated: October 2025*  
 *Version: 1.1*  
 *Documentation: https://github.com/pepemyid/pepeco*  
 *Live Whitepaper: https://pepemyid.github.io/pepeco-whitepaper/*
